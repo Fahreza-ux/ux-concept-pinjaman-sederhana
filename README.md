@@ -38,7 +38,7 @@ Aplikasi dengan:
 - Usability Planning
 
 ## 🎯 Live Portfolio
-[🔗 GitHub Repository](https://github.com/username-anda/ux-concept-pinjaman-sederhana)
+[🔗 GitHub Repository] https://github.com/Fahreza-ux/ux-concept-pinjaman-sederhana?tab=readme-ov-file
 
 ## 📞 Contact
 - LinkedIn: https://id.linkedin.com/in/muhammad-fahreza-ramadhan-328a8325b
