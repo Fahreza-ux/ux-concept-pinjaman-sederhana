@@ -175,3 +175,44 @@
 ## 📊 Key Journey Insights
 
 ### Emotional Highs & Lows
+
+### Critical Decision Points
+1. **First 5 minutes** - User memutuskan tetap lanjut atau uninstall
+2. **Document Upload** - Drop-off point tertinggi
+3. **Waiting Period** - Customer support inquiries peak
+
+### Service Gaps Identified
+1. **Transparency Gap** - User left in dark selama proses
+2. **Education Gap** - Lack of financial literacy support
+3. **Support Gap** - Slow response times
+
+---
+
+## 🛠️ Design Opportunities
+
+### Quick Wins
+1. **Progress Transparency** - Show detailed status dengan estimasi
+2. **Proactive Communication** - Regular updates selama proses
+3. **Educational Tooltips** - Explain terms dalam bahasa sederhana
+
+### Strategic Improvements
+1. **Streamlined Onboarding** - Reduce steps dari 8 ke 4
+2. **Intelligent Defaults** - Pre-fill berdasarkan user profile
+3. **Multi-channel Support** - WhatsApp integration untuk quick questions
+
+### Innovation Opportunities
+1. **AI-powered Recommendations** - Suggest optimal loan parameters
+2. **Gamified Financial Education** - Make learning fun dan engaging
+3. **Community Features** - User testimonials dan success stories
+
+---
+
+## 📈 Success Metrics for Journey Improvement
+
+### Before & After Targets
+- **Application Completion Rate**: 45% → 85%
+- **Time to Complete**: 15 minutes → 5 minutes  
+- **Support Inquiries**: 40% → 10% of users
+- **User Satisfaction**: 2.8/5 → 4.2/5
+
+**Next Step**: Wireframe descriptions berdasarkan journey insights
