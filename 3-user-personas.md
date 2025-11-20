@@ -123,3 +123,4 @@ _"Saya tidak paham teknologi tinggi, yang penting prosesnya jelas, uang cepat ca
 4. **Multi-channel Support** - App, chat, phone support
 
 **Next Step**: User Journey Mapping berdasarkan persona insights
+
