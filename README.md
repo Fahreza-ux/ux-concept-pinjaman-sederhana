@@ -36,3 +36,10 @@ Aplikasi dengan:
 - User Journey Mapping
 - Information Architecture
 - Usability Planning
+
+## 🎯 Live Portfolio
+[🔗 GitHub Repository](https://github.com/username-anda/ux-concept-pinjaman-sederhana)
+
+## 📞 Contact
+- LinkedIn: https://id.linkedin.com/in/muhammad-fahreza-ramadhan-328a8325b
+- Email: fahrezaid97@gmail.com
